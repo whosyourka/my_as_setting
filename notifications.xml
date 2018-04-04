@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Configure Kotlin in Project" displayType="NONE" />
+    <notification groupId="Plugin Errors" displayType="NONE" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" />
+  </component>
+</application>

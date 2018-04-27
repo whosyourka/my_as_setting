@@ -26,6 +26,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="whosyourka" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/YoKeyword/IndexableRecyclerView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="G:\workplace\git_unionpay" />

@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="com.xlan.unionpay.specialsale.detail.view.TransQueryDetailFragment.cancelAndRefund(isCancel)" />
+        <added pattern="com.landi.utillibrary.util.NetService.exchangeGsonData(className,request)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />

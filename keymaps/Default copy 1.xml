@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl f12" second-keystroke="ctrl alt 2" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+</keymap>

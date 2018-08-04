@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="MyPluginExtensjion" type="Groovy" />
       <mapping pattern="ApkDistPlugins" type="Groovy" />
+      <mapping pattern="AppPlugin" type="Groovy" />
       <mapping pattern="ApkDistExtension" type="Groovy" />
       <mapping pattern="MyApkNamePlugin" type="Groovy" />
       <mapping ext="mygroovyplugins" type="Properties" />

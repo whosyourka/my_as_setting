@@ -16,4 +16,7 @@
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
+  <action id="com.wingsofts.mvphelper.action.MvpHelperAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
 </keymap>

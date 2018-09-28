@@ -8,6 +8,7 @@
       <mapping pattern="MyApkNamePlugin" type="Groovy" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="ec" type="PLAIN_TEXT" />
       <mapping ext="mygroovyplugins" type="Properties" />
       <mapping ext="mygroovyplugin" type="Properties" />
     </extensionMap>

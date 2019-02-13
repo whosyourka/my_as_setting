@@ -1,25 +1,37 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CheckStyle-IDEA">
-        <option name="configuration">
-          <map>
-            <entry key="checkstyle-version" value="8.1" />
-            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
-            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
-            <entry key="scan-before-checkin" value="false" />
-            <entry key="scanscope" value="JavaOnly" />
-            <entry key="suppress-errors" value="false" />
-          </map>
-        </option>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <Objective-C-extensions>
+            <file>
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
+            </file>
+            <class>
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
+            </class>
+            <extensions>
+              <pair source="cpp" header="h" fileNamingConvention="NONE" />
+              <pair source="c" header="h" fileNamingConvention="NONE" />
+            </extensions>
+          </Objective-C-extensions>
+        </code_scheme>
       </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="D:/software/sdk" />
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -106,22 +118,6 @@
         <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
